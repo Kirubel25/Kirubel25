@@ -2,7 +2,6 @@
 
 <h3 align="center">A passionate back-end developer</h3>
 
-
 - 🔭 I’m currently working on **Productivity Enhancement Platform (ERP Project)**
 
 - 🌱 I’m currently learning **AWS, Software Architecture, Advance React.js**
