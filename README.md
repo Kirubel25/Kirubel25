@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kirubel Simachew</h1>
 
-
 <h3 align="center">A passionate back-end developer</h3>
 
 - 🔭 I’m currently working on **Productivity Enhancement Platform (ERP Project)**
